@@ -1,3 +1,3 @@
 # install
 
-См [[Wiki page]]
+См [Wiki|../../../wiki]
